@@ -3,16 +3,16 @@
   <PropertyGroup>
     <TargetFrameworks>netstandard2.0;net8.0</TargetFrameworks>
     <Title>Spectre.Console Extensions</Title>
-    <Description>This package contains some extensions for the Spectre.Console project, such as CommandAppBuilder and DependencyInjection implementation</Description>
+    <Description>This is a fork of the original Spectre.Console Extensions. This package contains some extensions for the Spectre.Console project, such as CommandAppBuilder and DependencyInjection implementation</Description>
     <GenerateDocumentationFile>True</GenerateDocumentationFile>
-    <PackageId>SpectreConsole.Extensions</PackageId>
-    <Authors>Alberto Mori</Authors>
+    <PackageId>SpectreConsole.Extensions.Net8</PackageId>
+    <Authors>Alberto Mori, michael.dgg.2</Authors>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <Version>0.3.1</Version>
+    <Version>1.0.0</Version>
     <RepositoryType>git</RepositoryType>
-    <RepositoryUrl>https://github.com/albx/Spectre.Console.Extensions</RepositoryUrl>
+    <RepositoryUrl>https://github.com/michaeldgg2/Spectre.Console.Extensions</RepositoryUrl>
     <PackageTags>spectreconsole;dotnet;dependency injection</PackageTags>
-    <PackageProjectUrl>https://github.com/albx/Spectre.Console.Extensions</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/michaeldgg2/Spectre.Console.Extensions</PackageProjectUrl>
     <PackageReadmeFile>README.md</PackageReadmeFile>
   </PropertyGroup>
 

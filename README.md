@@ -1,3 +1,9 @@
+# Fork
+
+This is a fork of the [Spectre.Console.Extensions package](https://github.com/albx/Spectre.Console.Extensions), which downgrades everything down to .NET 8.0 including NuGet packages. This is possible, because Spectre.Console Extensions does not use anything from .NET 9.0.
+
+Currently it matches [the version 0.3.1](https://github.com/albx/Spectre.Console.Extensions/releases/tag/0.3.1) of the original package. The original README.md follows.
+
 # Spectre.Console Extensions
 
 This project contains some extensions for the Spectre.Console CLI project.
@@ -5,7 +11,7 @@ It adds a CommandAppBuilder which enables features like Dependency injection.
 
 ## Requirements
 
-The project supports .NET Standard 2.0, .NET 8 and .NET 9.
+The project supports .NET Standard 2.0 and .NET 8.
 
 
 ## Installation
