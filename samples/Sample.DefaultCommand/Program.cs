@@ -4,6 +4,7 @@ using Sample.Services;
 using Spectre.Console;
 using Spectre.Console.Cli;
 using Spectre.Console.Extensions;
+using System;
 using System.Diagnostics.CodeAnalysis;
 
 var builder = CommandAppBuilder.Create();
